@@ -1,4 +1,6 @@
-#!/Users/nurbol/Desktop/drf_projecttt/venv/bin/python3
+#!/bin/sh
+'''exec' "/home/islam/Рабочий стол/drf_projecttt/venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
